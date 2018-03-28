@@ -1,0 +1,16 @@
+﻿  Game.cpp
+  main.cpp
+main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNetwork.cpp
+  Neuron.cpp
+  Scene.cpp
+Scene.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SignBase.cpp
+  Table.cpp
+  Tile.cpp
+Tile.cpp(5): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  All 340 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Letter-Recognizer-On-Perceptrons.vcxproj -> E:\Projects\Letter-Recognizer-On-Perceptrons\Release\Letter-Recognizer-On-Perceptrons.exe
+  Letter-Recognizer-On-Perceptrons.vcxproj -> E:\Projects\Letter-Recognizer-On-Perceptrons\Release\Letter-Recognizer-On-Perceptrons.pdb (Full PDB)

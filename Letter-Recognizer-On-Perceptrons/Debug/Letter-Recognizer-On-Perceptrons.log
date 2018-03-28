@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\projects\letter-recognizer-on-perceptrons\letter-recognizer-on-perceptrons\main.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  NeuralNetwork.cpp
+  Game.cpp
+  Generating Code...
+  Letter-Recognizer-On-Perceptrons.vcxproj -> E:\Projects\Letter-Recognizer-On-Perceptrons\Debug\Letter-Recognizer-On-Perceptrons.exe
+  Letter-Recognizer-On-Perceptrons.vcxproj -> E:\Projects\Letter-Recognizer-On-Perceptrons\Debug\Letter-Recognizer-On-Perceptrons.pdb (Partial PDB)
