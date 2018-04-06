@@ -10,5 +10,5 @@ Libraries used:
 How to use:
 - Draw something on a black window
 - Press Enter (Return)
-- Tell the app what you've drown (Just press a key without switching to command window)
+- Tell the app what you've drawn (Just press a key without switching to command window)
 - Repeat
